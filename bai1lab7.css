@@ -1,0 +1,134 @@
+
+.sdt{
+    color: white;
+    height: 25px;
+}
+.account{
+    
+    text-align: right;
+    
+}
+.help{
+    background-color: #4db779;
+    
+}
+.account a{
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+}
+.account a:hover{
+    color: aqua;
+}
+.nav-cart{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.nav-cart:hover{
+    background-color: aqua;
+    color: black;
+}
+.newarr{
+    text-align: center;
+    
+}
+.newarr p{
+    font-size: 20pt;
+    color: gray;
+}
+#khung{
+    background-color: #f4f7fc;
+}
+.box{
+    background-color: #f4f7fc;
+}
+.boder{
+    border: 1px solid #edeef0;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.box img{
+    width: 100%;
+}
+.boder button{
+    text-align: center;
+    background-color: #4ec67e;
+    color: white;
+    margin-bottom: 10px;
+}
+.boder button:hover{
+    background-color: aqua;
+}
+.new{
+    height: 25px;
+    position: relative;
+    width: 50%;
+    top: -45px;
+}
+
+.new p{
+    text-align: left;
+}
+.new2{
+    background-color: #4ec67e;
+    height: 25px;
+    color: white;
+    margin-left: 12px;
+}
+.sale{
+    background-color: #ea5e56;
+    color: white;
+    height: 25px;
+}
+.bannerduoi{
+    display: flex;
+    background: url(bannerduoi.jpg) ;
+    justify-content: center;
+    height: 250px;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+.bannerduoi p{
+    margin: 0;
+}
+.info h6{
+    margin-top: 50px;
+}
+.info p{
+    color: gray;
+}
+.info form button{
+    width: 100%;
+    background-color: #4dc57f;
+}
+.icon-new{
+    
+    display: flex;
+}
+.icon{
+    display: flex;
+    background-color: #ccc;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin: 3px;
+}
+.footer2{
+    background-color: #ccc;
+    height: 30px;
+}
+.footer2 p{
+    line-height: 30px;
+    font-size: 10pt;
+}
+
+
+
